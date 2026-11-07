@@ -1,0 +1,3 @@
+# shard runtime only depends on the Python standard library (3.8+)
+# Optional: required only when packaging as a single-file exe
+pyinstaller>=6.0
